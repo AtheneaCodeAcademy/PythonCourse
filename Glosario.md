@@ -1,4 +1,4 @@
-# Glosario
+# 📖 Glosario
 En este documento se añaden descripciones a todas esas palabras nuevas
 
 - A
