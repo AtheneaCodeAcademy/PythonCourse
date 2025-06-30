@@ -1,6 +1,7 @@
 # 🏛️ Athenea Code Academy - Curso de Python
 
----
+<p align="center">
+<img src="images/logo.png" alt="Description" style="width:230px;height:200px;">
 
 ## 🎯 Nuestra Misión
 
