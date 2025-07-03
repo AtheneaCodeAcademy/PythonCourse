@@ -1,9 +1,10 @@
 # 📖 Glosario
-En este documento se añaden descripciones a todas esas palabras nuevas o desconocidas para los nuevos desarrolladores.
+Catálogo de descripciones para aquellas palabras nuevas o desconocidas que se ven a lo largo del curso.
 
 - A
 - B
   - `Bug` : Error o comporamiento inesperado en un programa que provoca que no funciona como se esperaba.
+  - `Build-In Function` : Función instalada por defecto en el intérprete de Python.
 - C
   - `Compilar` : Proceso de traducción del cógido fuente de un programa a un lenguaje de programación (C o Java) que la máquina pueda entender (código binário) antes de ejecutarlo. El resultado es un archivo ejecutable que se puede correr sin necesidad de código fuente. **Python** no necesita compilarse.
 - D
@@ -15,8 +16,9 @@ En este documento se añaden descripciones a todas esas palabras nuevas o descon
 - H
   - `Hotfix` : Corrección rápida de un bug (error) crítico en producción. 
 - I
-  - `Intérprete` : Programa que lee y ejecuta el código fuente línea por línea, sin necesidad de compilarlo previamente.
+  - `IDE` : Entorno de desarrollo integrado. Entorno de desarrollo que permite a los programadores desarrollar código.
   - `Identación` : Espacios que indican qué líneas pertenecen a un bloque de código.
+  - `Intérprete` : Programa que lee y ejecuta el código fuente línea por línea, sin necesidad de compilarlo previamente.
   - `Input` : Valor de entrada.
 - J
 - K
@@ -44,7 +46,7 @@ En este documento se añaden descripciones a todas esas palabras nuevas o descon
 - Y
 - X
 
-
+---
 
 # ⚠ Simbología en Python
 A continuación se muestra un conjunto de carácteres especiales, símbolos operadores, delimitadores y signos de puntuación utilizados en progragamación y en especial para el lenguaje de programación Python:
@@ -70,6 +72,7 @@ A continuación se muestra un conjunto de carácteres especiales, símbolos oper
 - `'` : Comillas simples
 - `^` : Circunflejo
 
+---
 
 Si crees que se debería añadir algún término adicional al glosario o a la sección de simbología, no dudes en crear una Pull Request para añadirlo o comentarlo con el profesor, él mismo la añadirá.
 ¡Gracias por tu colaboración!
