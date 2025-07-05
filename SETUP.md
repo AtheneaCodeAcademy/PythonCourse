@@ -8,4 +8,14 @@ Proceso de instalación
 git clone https://github.com/AtheneaCodeAcademy/PythonCourse.git
 ```
 
+Windows:
+```code
+source update.sh
+```
+
+Linux:
+```bash
+bash update.sh
+```
+
 Documentación de la configuración en proceso...

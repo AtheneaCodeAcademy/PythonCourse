@@ -1,5 +1,5 @@
 # Ignore venv
-python_course/
+venv_course/
 
 # Ignore Checkpoints from Notebooks in JupyterLab
 00_Basics/.ipynb_checkpoints
