@@ -7,6 +7,13 @@ Proceso de instalación
 ```bash
 git clone https://github.com/AtheneaCodeAcademy/PythonCourse.git
 ```
+# How to activate the virtual environment
+## Linux/macOS
+source venv_course/bin/activate
+
+## Windows (CMD o Git Bash)
+source venv_course/Scripts/activate
+
 
 Windows:
 ```code
