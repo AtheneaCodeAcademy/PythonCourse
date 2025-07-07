@@ -7,7 +7,7 @@
 
 En **Athenea Code Academy** creemos que la programación **no es solo para programadores e ingenieros**. Queremos romper esa barrera y llevar el poder de la automatización y la programación a **personas de cualquier perfil profesional**, sin importar si nunca antes han tocado una línea de código.
 
-Nuestro curso de **Python** está diseñado para que aprendas desde cero, de forma clara, práctica y amena. Queremos que seas capaz de **automatizar tareas repetitivas**, **resolver problemas cotidianos** y, en definitiva, **facilitar tu vida laboral y personal** usando herramientas tecnológicas modernas y accesibles.
+Nuestro curso de **Python** está diseñado para que aprendas desde cero, de forma clara, práctica y amena. Queremos que seas capaz de **automatizar tareas repetitivas**, **resolver problemas cotidianos** y, en definitiva, **impulsar tu vida laboral y personal** usando herramientas tecnológicas modernas y accesibles.
 
 ---
 
