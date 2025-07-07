@@ -16,7 +16,7 @@ Nuestro curso de **Python** está diseñado para que aprendas desde cero, de for
 Python es un lenguaje de programación:
 
 - **Fácil de aprender** gracias a su sintaxis sencilla y clara.
-- **Versátil**, usado en muchas áreas: automatización, análisis de datos, web, inteligencia artificial y más.
+- **Versátil**, usado en muchas áreas: automatización, análisis de datos, desarrollo web, inteligencia artificial y más.
 - **Potente**, con una gran comunidad y bibliotecas para todo tipo de tareas.
 - **Ideal para principiantes**, por eso es nuestro lenguaje elegido para el curso.
 
